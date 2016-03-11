@@ -32,8 +32,8 @@ class Login extends Component {
      movies: null,
 
      TempGuid:null,
-    username:'20121120190',
-     passwd:'hxp113hxp',
+    username:'',
+     passwd:'',
      code:null,
      islogin:null,
      access_token:'',
